@@ -1,0 +1,38 @@
+{
+  "categorias_gasto": [
+    "Sementes",
+    "Fertilizantes e Adubos",
+    "Defensivos",
+    "Nutrição Animal",
+    "Combustíveis",
+    "Manutenção de Máquinas",
+    "Manutenção de Benfeitorias",
+    "Salários",
+    "Mão de Obra Temporária",
+    "Arrendamento",
+    "Despesas da Fazenda"
+  ],
+  "categorias_receita": [
+    "Venda de Leite",
+    "Venda de Animais",
+    "Venda de Grãos",
+    "Venda de Derivados Animais",
+    "Culturas Permanentes",
+    "Hortifruit"
+  ],
+  "tipos_producao": [
+    "Pecuária de Corte",
+    "Pecuária Leiteira",
+    "Produção de Grãos",
+    "Hortifruit",
+    "Misto",
+    "Outro"
+  ],
+  "dicas_financeiras": [
+    "Registrar todo gasto na hora evita esquecimentos no fim do mês",
+    "Separar as categorias de custo ajuda a identificar onde está gastando mais",
+    "Comparar receita e custo por unidade (litro, arroba, saca) revela a margem real",
+    "Custos fixos existem todo mês independente da produção — fique atento a eles",
+    "Mão de obra temporária e combustível são os custos variáveis que mais surpreendem"
+  ]
+}
