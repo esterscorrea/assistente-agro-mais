@@ -2,17 +2,13 @@
 
 Projeto desenvolvido para o Lab **"Construa Seu Assistente Virtual Com Inteligência Artificial"** da **DIO**.
 
----
-
 ##  O Problema
 
 O produtor rural sabe quanto ganhou, mas não sabe exatamente quanto gastou. O controle financeiro da fazenda é feito no caderno, no feeling e no fim do ano não sobrou nada.
 
 ##  A Solução
 
-O **Agro+** é um assistente financeiro que o produtor conversa naturalmente para registrar gastos e receitas e entender a situação financeira da fazenda — sem planilhas, sem formulários.
-
----
+O **Agro+** é um assistente financeiro que o produtor conversa naturalmente para registrar gastos e receitas e entender a situação financeira da fazenda sem planilhas, sem formulários.
 
 ## 📁 Estrutura do Projeto
 
@@ -30,16 +26,12 @@ agro-mais/
     └── agro_mais.ipynb
 ```
 
----
-
 ##  Como Executar
 
 1. Abra o notebook `src/agro_mais.ipynb` no Google Colab
 2. Instale a dependência: `!pip install groq -q`
 3. Insira sua chave da API Groq
 4. Execute e converse com o Agro+!
-
----
 
 ##  Os 6 Passos do Desafio
 
@@ -52,7 +44,6 @@ agro-mais/
 | 5. Avaliação e Métricas | `docs/avaliacao.md` |
 | 6. Pitch | `docs/pitch.md` |
 
----
 
 ## 🚀 Pitch
 
