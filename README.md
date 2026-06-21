@@ -4,7 +4,7 @@ Projeto desenvolvido para o Lab **"Construa Seu Assistente Virtual Com Inteligê
 
 ##  O Problema
 
-O produtor rural sabe quanto ganhou, mas não sabe exatamente quanto gastou. O controle financeiro da fazenda é feito no caderno, no feeling e no fim do ano não sobrou nada.
+O produtor rural sabe quanto ganhou, mas não sabe exatamente quanto gastou. O controle financeiro da fazenda é feito no caderno ou em planilhas sem muito controle e no fim do ano não sobrou nada.
 
 ##  A Solução
 
@@ -51,9 +51,8 @@ agro-mais/
 
 **Solução:** Um assistente que registra gastos e receitas por conversa, categoriza automaticamente e mostra o diagnóstico financeiro quando o produtor precisar.
 
-**Valor:** Encarar a fazenda como empresa — com números reais, não no feeling.
+**Valor:** Encarar a fazenda como empresa com números reais.
 
----
 
 *Projeto desenvolvido com auxílio do Claude, IA da Anthropic.*
-*Autora: coloque seu nome aqui*
+*Autora: Ester Correa*
